@@ -1,11 +1,11 @@
 {
   "program": "IPTV Kontrol Merkezi",
-  "version": "7.3.5",
-  "build": "2026.07.18.0111",
+  "version": "7.3.6",
+  "build": "2026.07.18.0140",
   "release_date": "2026-07-18",
   "mandatory": false,
   "download_url": "",
-  "patch_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES/releases/download/v7.3.5/IPTV_Kontrol_Merkezi_v7.3.5.iptvpatch",
+  "patch_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES/releases/download/v7.3.6/IPTV_Kontrol_Merkezi_v7.3.6.iptvpatch",
   "notes": [
     "Güncelleme ve iyileştirmeler yapıldı."
   ]
