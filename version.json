@@ -4,7 +4,7 @@
   "build": "2026.07.18.1200",
   "release_date": "2026-07-18",
   "mandatory": true,
-  "download_url": "",
+  "download_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES/releases/download/v7.3.31/IPTV_Kontrol_Merkezi_v7.3.31.iptvpatch",
   "patch_url": "https://github.com/gunertaylan59-hub/IPTV-KONTROL-UPDATES/releases/download/v7.3.31/IPTV_Kontrol_Merkezi_v7.3.31.iptvpatch",
   "notes": [
     "Güncelleme ve iyileştirmeler yapıldı."
